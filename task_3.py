@@ -31,4 +31,3 @@ if not path.is_dir():
 print(Fore.BLUE + path.name)
 show_folder_structure(path, "    ")
 
-
